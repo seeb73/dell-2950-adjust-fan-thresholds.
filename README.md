@@ -1,0 +1,1 @@
+# dell-2950-adjust-fan-thresholds.
